@@ -27,27 +27,6 @@
 
 ---
 
-<div align="center">
-
-### Projects
-
-<a href="https://github.com/realSentic/guitar-inventory-frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=realSentic&repo=guitar-inventory-frontend&theme=radical&hide_border=true" alt="String Theory">
-</a>
-<a href="https://github.com/realSentic/volunteering-form">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=realSentic&repo=volunteering-form&theme=radical&hide_border=true" alt="Gerarsyken Volunteering Form">
-</a>
-<a href="https://github.com/realSentic/cloudgame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=realSentic&repo=cloudgame&theme=radical&hide_border=true" alt="Sky Catcher">
-</a>
-
-<sub>
-<a href="https://guitar-inventory-frontend.vercel.app/">String Theory (live)</a> &nbsp;/&nbsp;
-<a href="https://realsentic.github.io/volunteering-form">Volunteering Form (live)</a> &nbsp;/&nbsp;
-<a href="https://novamorava213.itch.io/sky-catcher">Sky Catcher (play)</a> &nbsp;/&nbsp;
-<a href="https://syiam.vercel.app/projects">All projects</a>
-</sub>
-
 <br><br>
 
 ### Stats
