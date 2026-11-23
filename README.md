@@ -18,19 +18,14 @@
 <br>
 
 <sub>✧ ･ﾟ: *✧･ﾟ:* 　my toolbox　 *:･ﾟ✧*:･ﾟ✧</sub>
-<br><br>
-<sub>🐍 languages</sub><br>
-<img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" height="28" /><br>
-<sub>🌸 frontend</sub><br>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="28" /><br>
-<sub>🍡 backend</sub><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" height="28" /><br>
-<sub>🍓 databases</sub><br>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="28" /><br>
-<sub>🐳 devops</sub><br>
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" height="28" /><br>
-<sub>🎮 game engines</sub><br>
-<img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" height="28" /><br>
-<sub>🎨 design</sub><br>
-<img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" height="28" />
+
+<table align="center">
+<tr><td align="right"><sub>🐍 languages</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🌸 frontend</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🍡 backend</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🍓 databases</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🐳 devops</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🎮 game engines</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🎨 design</sub>&nbsp;&nbsp;</td><td>&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" height="28" /></td></tr>
+</table>
 </div>
