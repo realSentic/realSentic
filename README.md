@@ -2,10 +2,10 @@
 <tr>
 <td align="center" valign="middle">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=28&duration=4000&pause=300&color=F4A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=Hello+hello;I'm+Syiam+(or+Senti)%2C+a+web+dev+who+makes+games+%E2%98%86)](https://syiam.vercel.me)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=3500&pause=300&color=F4A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=hello!;i'm+syiam+(or+senti)%2C+a+full+stack+dev+who+also+likes+doing+game+dev+%E2%98%86)](https://syiam.vercel.me)
 
 ```
-💼 Web developer • Game developer on the side
+💼 Full stack developer • Game developer on the side
 🎮 Video games • Anime • Art • Code
 🎸 Instruments • Collecting keychains 🔑
 ```
@@ -30,25 +30,16 @@
 
 <div align="center">
 
-### Languages
-<img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" />
+<sub>✧ ･ﾟ: *✧･ﾟ:* 　my toolbox　 *:･ﾟ✧*:･ﾟ✧</sub>
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" />
-
-### Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" />
-
-### Databases
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" />
-
-### DevOps
-<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" />
-
-### Game Engines
-<img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" />
-
-### Design & Tools
-<img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" />
+<table>
+<tr><td align="right"><sub>🐍 languages</sub></td><td><img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🌸 frontend</sub></td><td><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🍡 backend</sub></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🍓 databases</sub></td><td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🐳 devops</sub></td><td><img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🎮 game engines</sub></td><td><img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" height="28" /></td></tr>
+<tr><td align="right"><sub>🎨 design</sub></td><td><img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" height="28" /></td></tr>
+</table>
 
 </div>
