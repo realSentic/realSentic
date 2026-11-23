@@ -15,11 +15,45 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=py,js,ts,java,html,css,react,nextjs,tailwind&theme=dark" alt="Languages and frontend">
+<sub><b>Languages</b></sub>
 <br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,socketio,mysql,postgres,mongodb&theme=dark" alt="Backend and databases">
+<img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" alt="Languages">
+
+<br><br>
+
+<sub><b>Frontend</b></sub>
 <br>
-<img src="https://skillicons.dev/icons?i=godot,unity,git,github,docker,figma,postman,ae&theme=dark" alt="Game engines and tools">
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend">
+
+<br><br>
+
+<sub><b>Backend</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,socketio&theme=dark" alt="Backend">
+
+<br><br>
+
+<sub><b>Databases</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases">
+
+<br><br>
+
+<sub><b>DevOps</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="DevOps">
+
+<br><br>
+
+<sub><b>Game Engines</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Game engines">
+
+<br><br>
+
+<sub><b>Design & Tools</b></sub>
+<br>
+<img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" alt="Design and tools">
 
 <br><br>
 
@@ -27,7 +61,9 @@
 
 ---
 
-<br><br>
+<div align="center">
+
+<br>
 
 ### Stats
 
