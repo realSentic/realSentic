@@ -4,11 +4,17 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=20&duration=3500&pause=300&color=F4A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=760&height=90&lines=hello!;i'm+syiam+(or+senti)%2C+a+full+stack+dev+who+also+likes+doing+game+dev+%E2%98%86)](https://syiam.vercel.me)
 
-```
+<table align="center">
+<tr>
+<td>
+<pre>
 💼 Full stack developer • Game developer on the side
-🎮 Video games • Anime • Art • Code
-🎸 Instruments • Collecting keychains 🔑
-```
+        🎮 Video games • Anime • Art • Code
+      🎸 Instruments • Collecting keychains 🔑
+</pre>
+</td>
+</tr>
+</table>
 
 <!-- replace with your small gif: assets/mini.gif -->
 <img src="https://placehold.co/80x60/png?text=gif" alt="mini gif" />
