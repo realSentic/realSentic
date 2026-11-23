@@ -4,10 +4,10 @@
 
 <br><br>
 
-<h1>Hey, I'm Syiam. (or senti)</h1>
-<h3>Building things for the web and making small games on the side.</h3>
+<h1>hey, im syiam. (or senti)</h1>
+<h3>i do web development, but also enjoy doing game development on the side too!</h3>
 
-<p>Open to internships and collaborations.</p>
+<p>open to internships and collaborations.</p>
 
 <br>
 
