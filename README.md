@@ -1,10 +1,8 @@
-<div align="center">
+<table>
+<tr>
+<td align="center" valign="middle">
 
-![banner](assets/banner.png)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=30&duration=4000&pause=300&color=F4A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=900&height=120&lines=Hello+hello%3B+I'm+Syiam+(or+Senti)%2C+a+web+dev;who+also+makes+games+on+the+side+%F0%9F%8E%AE)](https://syiam.vercel.me)
-
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=28&duration=4000&pause=300&color=F4A6C8&center=true&vCenter=true&multiline=true&repeat=false&width=700&height=110&lines=Hello+hello;I'm+Syiam+(or+Senti)%2C+a+web+dev+who+makes+games+%E2%98%86)](https://syiam.vercel.me)
 
 ```
 💼 Web developer • Game developer on the side
@@ -12,11 +10,23 @@
 🎸 Instruments • Collecting keychains 🔑
 ```
 
-<div align="center">
+<!-- replace with your small gif: assets/mini.gif -->
+<img src="https://placehold.co/80x60/png?text=gif" alt="mini gif" />
 
-![gif](assets/fun.gif)
+<br />
 
-</div>
+[![Website](https://img.shields.io/badge/syiam.vercel.me-f4a6c8?style=flat&logo=vercel&logoColor=black)](https://syiam.vercel.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/syiamfortunado)
+
+</td>
+<td align="center" valign="middle">
+
+<!-- replace with your vertical image/gif: assets/side.png -->
+<img src="https://placehold.co/300x520/png?text=vertical+image" alt="vertical image" width="260" />
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
@@ -40,10 +50,5 @@
 
 ### Design & Tools
 <img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" />
-
-<br />
-
-[![Website](https://img.shields.io/badge/syiam.vercel.me-f4a6c8?style=for-the-badge&logo=vercel&logoColor=black)](https://syiam.vercel.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/syiamfortunado)
 
 </div>
