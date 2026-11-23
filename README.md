@@ -1,13 +1,12 @@
 <div align="center">
 
-<img src="Divider.svg" alt="Syiam Fortunado, Full-stack and Game Developer" width="100%">
+<img src="banner.svg" alt="Syiam Fortunado, Full-stack and Game Developer" width="100%">
 
 <br><br>
 
-<h2>hey, im syiam. (or senti)</h2>
-<h3>i do web development, but also enjoy doing game development on the side too!</h3>
+<h3>hey, im syiam. (or senti)</h3>
 
-<p>open to internships and collaborations.</p>
+<p>i do web development, but also enjoy doing game development on the side too!<br>open to internships and collaborations.</p>
 
 <br>
 
@@ -25,62 +24,42 @@
 
 <br>
 
-<h2>Tech Stack</h2>
+<h3>Tech Stack</h3>
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>Languages</h4>
-      <img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" alt="Languages">
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>Frontend</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend">
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>Backend</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,socketio&theme=dark" alt="Backend">
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>Databases</h4>
-      <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases">
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="DevOps">
-      <br><br>
-    </td>
-    <td align="center" valign="top" width="50%">
-      <br>
-      <h4>Game Engines</h4>
-      <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Game engines">
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" valign="top" colspan="2">
-      <br>
-      <h4>Design &amp; Tools</h4>
-      <img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" alt="Design and tools">
-      <br><br>
-    </td>
-  </tr>
-</table>
+<h4 align="center">Languages</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" alt="Languages"></p>
+
+<br>
+
+<h4 align="center">Frontend</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" alt="Frontend"></p>
+
+<br>
+
+<h4 align="center">Backend</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,socketio&theme=dark" alt="Backend"></p>
+
+<br>
+
+<h4 align="center">Databases</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"></p>
+
+<br>
+
+<h4 align="center">DevOps</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" alt="DevOps"></p>
+
+<br>
+
+<h4 align="center">Game Engines</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" alt="Game engines"></p>
+
+<br>
+
+<h4 align="center">Design &amp; Tools</h4>
+<p align="center"><img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" alt="Design and tools"></p>
 
 <br>
 
@@ -88,7 +67,7 @@
 
 <br>
 
-<h2>GitHub Stats</h2>
+<h3>GitHub Stats</h3>
 
 <br>
 
