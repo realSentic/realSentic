@@ -4,6 +4,7 @@
 
 <br><br>
 
+<h1>SENTI (SYIAM FORTUNADO)</h1>
 <h3>Building things for the web and making small games on the side.</h3>
 
 <p>Open to internships and collaborations.</p>
