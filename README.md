@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="banner.svg" alt="Syiam Fortunado, Full-stack and Game Developer" width="100%">
+<img src="Divider.svg" alt="Syiam Fortunado, Full-stack and Game Developer" width="100%">
 
 <br><br>
 
