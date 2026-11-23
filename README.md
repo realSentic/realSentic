@@ -5,19 +5,19 @@
 <br>
 <sub>✧ my toolbox ✧</sub>
 <br><br>
-<sub>🐍 languages</sub><br>
+<sub>languages</sub><br>
 <img src="https://skillicons.dev/icons?i=py,js,ts,java&theme=dark" height="28" /><br><br>
-<sub>🌸 frontend</sub><br>
+<sub>frontend</sub><br>
 <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind&theme=dark" height="28" /><br><br>
-<sub>🍡 backend</sub><br>
+<sub>backend</sub><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" height="28" /><br><br>
-<sub>🍓 databases</sub><br>
+<sub>databases</sub><br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" height="28" /><br><br>
-<sub>🐳 devops</sub><br>
+<sub>devops</sub><br>
 <img src="https://skillicons.dev/icons?i=git,github,docker&theme=dark" height="28" /><br><br>
-<sub>🎮 game engines</sub><br>
+<sub>game engines</sub><br>
 <img src="https://skillicons.dev/icons?i=godot,unity&theme=dark" height="28" /><br><br>
-<sub>🎨 design</sub><br>
+<sub>design</sub><br>
 <img src="https://skillicons.dev/icons?i=figma,postman,ae&theme=dark" height="28" />
 <br><br>
 </td>
