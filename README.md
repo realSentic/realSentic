@@ -4,7 +4,7 @@
 
 <br><br>
 
-<h3>hey, im syiam. (or senti)</h3>
+<h2>hey, im syiam. (or senti)</h2>
 <h3>i do web development, but also enjoy doing game development on the side too!</h3>
 
 <p>open to internships and collaborations.</p>
