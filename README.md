@@ -30,9 +30,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=4000&pause=300&color=C0392B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=640&height=70&lines=hello!;i'm+syiam+(or+senti)%2C+a+full+stack+dev+who+also+likes+doing+game+dev+%E2%98%86" />
 <br><br>
 <pre>
-   Full stack developer • Game developer on the side
-   Video games • Anime • Art • Code • Instruments
-   Open to collborations
+   full-stack developer • game developer on the side
+   video games • anime • art • Code • instruments
+   open to collborations
 </pre>
 <br>
 <!-- replace with your small gif: assets/mini.gif -->
