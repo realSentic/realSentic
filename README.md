@@ -35,7 +35,7 @@
 </pre>
 <br>
 <!-- replace with your small gif: assets/mini.gif -->
-<img src="https://placehold.co/80x40/png?text=gif" height="40" />
+<img src="https://placehold.co/80x40/png?text=gif](https://assets.pokestats.gg/pokeapi/v1/pokemon/other/showdown/393.gif" height="40" />
 <br><br>
 <a href="https://syiam.vercel.me"><img src="https://img.shields.io/badge/syiam.vercel.me-f4a6c8?logo=vercel&logoColor=black" /></a>
 <a href="https://linkedin.com/syiamfortunado"><img src="https://img.shields.io/badge/linkedin-0a66c2?logo=linkedin&logoColor=white" /></a>
