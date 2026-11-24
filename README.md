@@ -24,7 +24,8 @@
 
 <td align="center" valign="middle">
 <!-- replace with your banner: assets/banner.png -->
-<img src="assets/ada_banner.webp" width="90%" />
+<br>
+<img src="assets/ada_banner.webp" width="80%" />
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=4000&pause=300&color=C0392B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=640&height=70&lines=hello!;i'm+syiam+(or+senti)%2C+a+full+stack+dev+who+also+likes+doing+game+dev+%E2%98%86" />
 <br><br>
