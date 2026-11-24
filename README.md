@@ -24,7 +24,7 @@
 
 <td align="center" valign="middle">
 <!-- replace with your banner: assets/banner.png -->
-<img src="https://placehold.co/700x180/png?text=banner](https://i.pinimg.com/736x/c7/c0/71/c7c0711c413dfe2c8579aa1a2532be8a.jpg" width="90%" />
+<img src="https://i.pinimg.com/736x/c7/c0/71/c7c0711c413dfe2c8579aa1a2532be8a.jpg" width="90%" />
 <br><br>
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=16&duration=4000&pause=300&color=C0392B&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=640&height=70&lines=hello!;i'm+syiam+(or+senti)%2C+a+full+stack+dev+who+also+likes+doing+game+dev+%E2%98%86" />
 <br><br>
